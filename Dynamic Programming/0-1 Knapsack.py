@@ -25,4 +25,3 @@ capacity = 7
 max_value, selected_items = knapsack(weights, values, capacity)
 print(f"Maximum value: {max_value}")
 print(f"Selected items: {selected_items}")
-￼Enter
